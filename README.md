@@ -2,13 +2,12 @@ What is DFLpred?
 
 DFLpred is a computational prediction tool designed to identify disordered flexible linker (DFL) regions in protein sequences. These are regions that:
 
-are intrinsically disordered (lack a stable 3D structure under physiological conditions),
-
-function as linkers between structured domains or segments of a protein (rather than being tightly folded themselves), and
-
-often provide flexibility, enable domain movement, or facilitate functional transitions.
+- are intrinsically disordered (lack a stable 3D structure under physiological conditions),
+- function as linkers between structured domains or segments of a protein (rather than being tightly folded themselves), and
+- often provide flexibility, enable domain movement, or facilitate functional transitions.
 
 Why it is useful?
+
 Many proteins, especially multi‐domain ones, need linker regions that are flexible and disordered for proper function (e.g., enabling the relative motion of domains, or acting as flexible spacers). Using a tool like DFLpred helps identify likely linker sequences from sequence alone.
 
 It complements other predictors of intrinsic disorder and functional regions (e.g., binding regions). In fact, DFLpred is one of the “disorder‐function” predictors (linker prediction) included in the DEPICTER2 toolkit. 
